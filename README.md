@@ -1,20 +1,19 @@
 ### Hi there 👋, I am Anjali Sharma
-![](https://www.freepik.com/free-vector/gradient-top-view-laptop-background_4734691.htm#query=linkedin%20background%20banner%20software%20developer&position=3&from_view=keyword&track=ais&uuid=279b3524-a276-4da8-af74-60c6cbcf8925)
+#### I am a Software Developer.
+![I am a Software Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I love to learn new skills and implement them in my word and projects. Currently, I am working on React, TypeScript, NextUI, Node.js
+I am working on many different languages and frameworks and enhancing my skills continuosly. 
 
-Skills: React/ Node.js/ Next.js/ JavaScript, TypeScript/ Express.js/ PostgreSQL
+Skills: JavaScript/ TypeScript/ React/ Next.js/ Express.js/ Node.js/ NextUI/ MUI
 
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjali-sharma3)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjali-sharma3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjali-sharma3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anjali__s_3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anjali_sharma03)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-sharma3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali-sharma3&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/anjali-sharma3)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=anjali-sharma3)  
 

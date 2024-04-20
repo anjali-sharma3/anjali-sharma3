@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Anjali Sharma
 #### I am a Software Developer.
-![I am a Software Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Software Developer.](https://img.freepik.com/free-photo/high-angle-desktop-with-laptop-copy-space_23-2148430882.jpg?w=1380&t=st=1713635333~exp=1713635933~hmac=3cdabf53ba0b4ab32731923dde6c988442cd5b78a70adbdb5645accd7ad4995d)
 
 I am working on many different languages and frameworks and enhancing my skills continuosly. 
 
